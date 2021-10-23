@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./assets/carbackground.jpg");
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-repeat: none;
+  background:linear-gradient(0deg, #68676755, #68676755), url("./assets/carbackground.jpg");
+  background-size: 100%;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
